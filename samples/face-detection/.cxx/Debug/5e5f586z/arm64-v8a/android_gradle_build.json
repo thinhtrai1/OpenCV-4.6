@@ -1,0 +1,40 @@
+{
+  "buildFiles": [
+    "/Users/nals_macbook_219/Desktop/OpenCV-android-sdk/samples/face-detection/jni/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/nals_macbook_219/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/Users/nals_macbook_219/Desktop/OpenCV-android-sdk/samples/face-detection/.cxx/Debug/5e5f586z/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/nals_macbook_219/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/Users/nals_macbook_219/Desktop/OpenCV-android-sdk/samples/face-detection/.cxx/Debug/5e5f586z/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "detection_based_tracker::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "detection_based_tracker",
+      "output": "/Users/nals_macbook_219/Desktop/OpenCV-android-sdk/samples/face-detection/build/intermediates/cxx/Debug/5e5f586z/obj/arm64-v8a/libdetection_based_tracker.so",
+      "runtimeFiles": [
+        "/Users/nals_macbook_219/Desktop/OpenCV-android-sdk/sdk/native/libs/arm64-v8a/libopencv_java4.so"
+      ]
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/nals_macbook_219/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/Users/nals_macbook_219/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Applications/AndroidProjects/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/.cxx/Debug/4j2a6670/x86",
+  "command": "/Users/nals_macbook_219/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android21 --gcc-toolchain=/Users/nals_macbook_219/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/nals_macbook_219/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dmixed_sample_EXPORTS -I/Applications/AndroidProjects/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/jni -isystem /Applications/AndroidProjects/OpenCV-android-sdk/sdk/native/jni/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/mixed_sample.dir/jni_part.cpp.o -c /Applications/AndroidProjects/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/jni/jni_part.cpp",
+  "file": "/Applications/AndroidProjects/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/jni/jni_part.cpp"
+}
+]

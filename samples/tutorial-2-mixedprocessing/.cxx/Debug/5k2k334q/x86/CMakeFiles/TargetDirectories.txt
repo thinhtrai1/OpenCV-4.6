@@ -1,0 +1,3 @@
+/Users/nals_macbook_219/Desktop/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/.cxx/Debug/5k2k334q/x86/CMakeFiles/rebuild_cache.dir
+/Users/nals_macbook_219/Desktop/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/.cxx/Debug/5k2k334q/x86/CMakeFiles/edit_cache.dir
+/Users/nals_macbook_219/Desktop/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/.cxx/Debug/5k2k334q/x86/CMakeFiles/mixed_sample.dir

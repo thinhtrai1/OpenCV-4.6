@@ -1,0 +1,40 @@
+{
+  "buildFiles": [
+    "/Users/nals_macbook_219/Desktop/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/jni/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/nals_macbook_219/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/Users/nals_macbook_219/Desktop/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/.cxx/Debug/5k2k334q/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/nals_macbook_219/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/Users/nals_macbook_219/Desktop/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/.cxx/Debug/5k2k334q/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "mixed_sample::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "mixed_sample",
+      "output": "/Users/nals_macbook_219/Desktop/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/build/intermediates/cxx/Debug/5k2k334q/obj/x86/libmixed_sample.so",
+      "runtimeFiles": [
+        "/Users/nals_macbook_219/Desktop/OpenCV-android-sdk/sdk/native/libs/x86/libopencv_java4.so"
+      ]
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/nals_macbook_219/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/Users/nals_macbook_219/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}
